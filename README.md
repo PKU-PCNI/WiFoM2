@@ -2,6 +2,11 @@
 H. Zhang, S. Gao, X. Cheng, “WiFo-M2: Empower Wireless Communications With Plug-and-Play Environment Sensing via Foundation Model” IEEE Transactions on Cognitive Communications and Networking, early access, 2026. 
 <br>
 
+## 📢 Latest Updates
+
+🔥🔥🔥 Last Updated on 2026.8.4 🔥🔥🔥 
+- [2026.8.4] We released the pre-training weights of the proposed models and part of the testing datasets as open source at [xx].
+
 
 ## Dependencies and Installation
 - Python 3.9 (Recommend to use [Anaconda](https://www.anaconda.com/))
