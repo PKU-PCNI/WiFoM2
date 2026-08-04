@@ -5,7 +5,7 @@ H. Zhang, S. Gao, X. Cheng, “WiFo-M2: Empower Wireless Communications With Plu
 ## 📢 Latest Updates
 
 🔥🔥🔥 Last Updated on 2026.8.4 🔥🔥🔥 
-- [2026.8.4] We released the pre-training weights of the proposed models and part of the testing datasets as open source at [xx].
+- [2026.8.4] We released the pre-training weights of the proposed models and part of the testing datasets as open source.
 
 
 ## Dependencies and Installation
@@ -16,6 +16,10 @@ H. Zhang, S. Gao, X. Cheng, “WiFo-M2: Empower Wireless Communications With Plu
 
 ## Model Weights
 We have released the pre-trained weights of WiFo-M2-Img and WiFo-M2-LiDAR for inference in [Model](https://huggingface.co/AmZPKU/WiFoM2/tree/main).
+
+## Dataset Preparation
+The dataset used for inference is available in [[Testing Dataset]](https://huggingface.co/datasets/pku-pcni-lab/Multi-modal_dataset_for_WiFo-M2).
+
 
 ## Citation
 @ARTICLE{zhangWiFoM2,
