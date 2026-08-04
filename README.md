@@ -10,7 +10,7 @@ H. Zhang, S. Gao, X. Cheng, “WiFo-M2: Empower Wireless Communications With Plu
 - Python packages: `pip install -r requirements.txt`
 
 ## Model Weights
-We have released the pre-trained weights of WiFo-M2-Img and WiFo-M2-LiDAR for inference in [https://huggingface.co/AmZPKU/WiFoM2/tree/main].
+We have released the pre-trained weights of WiFo-M2-Img and WiFo-M2-LiDAR for inference in [Model](https://huggingface.co/AmZPKU/WiFoM2/tree/main).
 
 ## Citation
 @ARTICLE{zhangWiFoM2,
