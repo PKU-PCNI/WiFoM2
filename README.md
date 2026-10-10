@@ -4,8 +4,9 @@ H. Zhang, S. Gao, X. Cheng, “WiFo-M2: Empower Wireless Communications With Plu
 
 ## 📢 Latest Updates
 
-🔥🔥🔥 Last Updated on 2026.8.4 🔥🔥🔥 
+🔥🔥🔥 Last Updated on 2026.10.10 🔥🔥🔥 
 - [2026.8.4] We released the pre-training weights of the proposed models and part of the testing datasets as open source.
+- [2026.10.10] We released the network structure of some downstream PHY modules and the training code of  WiFo-M2 to enhance their performance as a reference. Note that the network structure of downstream PHY modules is reproduced by us and may differ slightly from the original paper, but this does not affect the capability evaluation of WiFo-M2.
 
 
 ## Dependencies and Installation
