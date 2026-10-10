@@ -1,5 +1,5 @@
 # WiFo-M2
-H. Zhang, S. Gao, X. Cheng, “WiFo-M2: Empower Wireless Communications With Plug-and-Play Environment Sensing via Foundation Model” IEEE Transactions on Cognitive Communications and Networking, early access, 2026. 
+H. Zhang, S. Gao, X. Cheng, “WiFo-M2: Empower Wireless Communications With Plug-and-Play Environment Sensing via Foundation Model” IEEE Transactions on Cognitive Communications and Networking, vol. 12, pp. 11654-11669, 2026. 
 <br>
 
 ## 📢 Latest Updates
