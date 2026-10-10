@@ -20,6 +20,11 @@ We have released the pre-trained weights of WiFo-M2-Img and WiFo-M2-LiDAR for in
 ## Dataset Preparation
 The dataset used for inference is available in [[Testing Dataset]](https://huggingface.co/datasets/pku-pcni-lab/Multi-modal_dataset_for_WiFo-M2/tree/main).
 
+## Get Started
+By running downstream_PHY_modules_performance.py, the training of a downstream PHY module can be initiated. You can manually choose to add WiFo-M2-Img feature or WiFo-M2-LiDAR feature, or both, to the PHY module to enhance its performance. You can configure it in CFG.
+
+WiFoM2_plus_downstream_PHY_network.py defines the network structure of downstream PHY modules, as well as the loading of weights for WiFo-M2-Img and WiFo-M2-LiDAR models, and the inference of multi-modal features corresponding to CSI at a certain time slot. The operation of downstream_PHY_modules_performance.py depends on WiFoM2_plus_downstream_PHY_network.py.
+
 
 ## Citation
 @ARTICLE{zhangWiFoM2,
