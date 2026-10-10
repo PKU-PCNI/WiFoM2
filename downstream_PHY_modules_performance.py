@@ -20,7 +20,7 @@ from tri_MMdataset0509major import (
     TriModalCSV,
     tri_modal_collate,
 )
-from downstream_PHY_adapters_opensource import MultiModalPipeline
+from WiFoM2_plus_downstream_PHY_network import MultiModalPipeline
 
 SEED = 20240912
 random.seed(SEED)
